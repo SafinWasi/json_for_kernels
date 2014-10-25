@@ -1,0 +1,39 @@
+{
+
+    "downloads": [
+
+        {
+
+            "android": [ "4.4.4" ],
+            "url": "http://fs1.d-h.st/download/00144/NZ8/safinwasi-kernel-fastcharge-20141011-v2-tate.img.img",
+            "version": "2.0",
+            "note": "Works only on CM11 M8 or lower,has overclocks added"
+
+         },
+         {
+
+            "android": [ "4.4.4" ],
+            "url": "http://az1.androidfilehost.com/dl/gO96R0PfBpO6-3uPgoB9vQ/1414228832/23681161096070379/boot.img",
+            "version": "1.5",
+            "note": "Works on M9 and above"
+
+        },
+        {
+
+            "android": [ "4.4.4" ],
+            "url": "http://fs1.d-h.st/download/00138/gY7/safinwasi-kernel-fastcharge-20142808-tate-v1.img",
+            "version": "1.0",
+            "note": "Works on CM11 M8 or lower"
+
+        }
+
+  ],
+"lists": [
+  
+  {
+  "url": "http://forum.xda-developers.com/kindle-fire-hd/7-development/kernel-fastcharge-kernel-kindle-fire-hd-t2860637",
+  "name": "XDA Thread"
+  }
+
+]
+}
